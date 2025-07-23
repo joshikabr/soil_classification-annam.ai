@@ -1,4 +1,3 @@
-# soil_classification-annam.ai
 Soil-Classification-Challenge Soil Image Classification Challenge (IIT Ropar, Annam.ai) This repository contains our complete solutions to two soil image classification challenges hosted by Annam.ai at IIT Ropar. The primary goal was to develop high-performing deep learning models to accurately classify soil images, maximizing F1-score for balanced predictions.
 
 Project Structure Soil Classification Part 1/ Multiclass classification of soil images into four types: Alluvial, Black, Clay, and Red.
